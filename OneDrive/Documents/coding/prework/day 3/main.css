@@ -1,0 +1,101 @@
+.images{width: 104%;
+    position: relative;
+    margin:-4% -2%  0 ;
+z-index: -1;
+
+}
+.lo{position: relative;
+     color: white;
+}
+.features{position: absolute;
+    top: 25%; right: 10%; left: 25%;
+    color:  white;
+    justify-content: center;
+    align-items: center;
+    font-size: 120px;
+    letter-spacing: 10px;
+}
+
+.menu{position: absolute;
+    left:40%; top: 2%;
+}
+.logo{
+    position: absolute;
+    top: -1%; left: 6%;
+}
+.btn{ border: solid black;
+    background-color: transparent;
+    color: white;
+}
+main{
+    align-items: center;
+}
+ .april{
+    text-align: center;
+    padding: 20px;
+ }
+ .month{
+    width: 65%;
+    text-align: left;
+    padding-left: 2%;
+    margin-bottom: 3%;
+
+ }
+ .sun{ 
+     position: relative;
+
+     left: -20%;
+     
+ 
+    }
+    .details{
+        position: relative;
+        left: -885px;
+        float: right;
+    }
+    .read-btn{
+        
+        background-color: orange;
+        border: 0.5px solid black;
+        height: 40px;
+        color: white;
+
+    }
+    .raisin{
+        padding-bottom: 7%;
+    }
+    .more{
+        position: relative;
+        float: right;
+        left: -20%;
+        top: 3%;
+    }
+    .footer{background-color: black;
+    color: white;
+    padding:  0 20px ;
+    margin: 0 0 ;
+   height: 400px;
+}
+.lol{
+    position: absolute;
+    
+    
+}
+.lol-1{
+    left: 20%;
+    padding-top: 50px
+    ;
+}
+.lol-2{
+    left: 40%;
+
+padding-top: 50px;
+}
+.lol-3{
+    left: 60%;
+    padding-top: 50px;
+}
+.chicago{
+    position: absolute;
+    padding: 50px 0 0 30px;
+}
